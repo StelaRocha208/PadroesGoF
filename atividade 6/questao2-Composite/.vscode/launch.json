@@ -1,0 +1,28 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GerenciamentoArquivos",
+            "request": "launch",
+            "mainClass": "GerenciamentoArquivos",
+            "projectName": "Composite_d9e756ef"
+        },
+        {
+            "type": "java",
+            "name": "SistemaStreaming",
+            "request": "launch",
+            "mainClass": "SistemaStreaming",
+            "projectName": "Proxy_59e822d6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
