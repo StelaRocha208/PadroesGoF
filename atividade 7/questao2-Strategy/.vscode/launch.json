@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SistemaNotificacoes",
+            "request": "launch",
+            "mainClass": "app.SistemaNotificacoes",
+            "projectName": "questao2-Strategy_173189e7"
+        },
+        {
+            "type": "java",
+            "name": "SistemaNotificacoes",
+            "request": "launch",
+            "mainClass": "app.SistemaNotificacoes",
+            "projectName": "questao2-Strategy_aab45fe6"
+        },
+        {
+            "type": "java",
+            "name": "SistemaAtendimento",
+            "request": "launch",
+            "mainClass": "app.SistemaAtendimento",
+            "projectName": "questao1-Chain-of-Responsibility_4a4e5b04"
+        },
+        {
+            "type": "java",
+            "name": "Cafeteria",
+            "request": "launch",
+            "mainClass": "Cafeteria",
+            "projectName": "Decorator_4ccf1ca3"
+        },
+        {
+            "type": "java",
+            "name": "GerenciamentoArquivos",
+            "request": "launch",
+            "mainClass": "GerenciamentoArquivos",
+            "projectName": "Composite_d9e756ef"
+        },
+        {
+            "type": "java",
+            "name": "SistemaStreaming",
+            "request": "launch",
+            "mainClass": "SistemaStreaming",
+            "projectName": "Proxy_59e822d6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
