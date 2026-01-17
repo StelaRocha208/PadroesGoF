@@ -9,6 +9,13 @@
             "name": "SistemaControleRemoto",
             "request": "launch",
             "mainClass": "controle.sistema.SistemaControleRemoto",
+            "projectName": "questao2-Command_f2453c76"
+        },
+        {
+            "type": "java",
+            "name": "SistemaControleRemoto",
+            "request": "launch",
+            "mainClass": "controle.sistema.SistemaControleRemoto",
             "projectName": "questao3-Iterator_7aea3600"
         },
         {

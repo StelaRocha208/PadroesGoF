@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaNotificacao",
+            "request": "launch",
+            "mainClass": "notificacao.sistema.SistemaNotificacao",
+            "projectName": "questao3-Observer_835d0c2a"
+        },
+        {
+            "type": "java",
             "name": "SistemaControleRemoto",
             "request": "launch",
             "mainClass": "controle.sistema.SistemaControleRemoto",

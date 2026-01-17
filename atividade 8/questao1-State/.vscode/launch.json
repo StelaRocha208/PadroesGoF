@@ -9,6 +9,13 @@
             "name": "SistemaGerenciamentoPedido",
             "request": "launch",
             "mainClass": "gerenciamento.sistema.SistemaGerenciamentoPedido",
+            "projectName": "questao1-State_873f353b"
+        },
+        {
+            "type": "java",
+            "name": "SistemaGerenciamentoPedido",
+            "request": "launch",
+            "mainClass": "gerenciamento.sistema.SistemaGerenciamentoPedido",
             "projectName": "questao3-Iterator_7aea3600"
         },
         {

@@ -13,8 +13,8 @@ public class SistemaNotificacao {
 
         Projeto projeto = new Projeto("Desenvolvimento de Software");
 
-        Usuario alice = new Usuario("Ana");
-        Usuario bob = new Usuario("Marcos");
+        Usuario ana = new Usuario("Ana");
+        Usuario marcos = new Usuario("Marcos");
 
         projeto.adicionarObservador(ana);
         projeto.adicionarObservador(marcos);
